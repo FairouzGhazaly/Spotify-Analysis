@@ -26,8 +26,6 @@ It contains information about **125 genres** of tracks along with audio features
 * **key, mode, time_signature:** Musical properties
 * **track_genre:** Genre of the track
 
-Dataset also available and analyzed on Kaggle: [Spotify Analysis on Kaggle](https://lnkd.in/djzCVexv).
-
 ## Project Highlights
 
 ### 1. Data Cleaning & Preprocessing
