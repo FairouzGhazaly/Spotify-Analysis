@@ -72,4 +72,6 @@ Understanding music trends through data can help:
 
 ## Jupyter Notebook
 
-The full code, visualizations, and step-by-step analysis are available in the notebook included in this repository.
+The full code, visualizations, and step-by-step analysis are available in the notebook included in this repository:
+
+📄[spotify-tracks-analysi.ipynb](spotify-da.ipynb)
